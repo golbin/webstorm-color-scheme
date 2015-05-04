@@ -1,6 +1,6 @@
 # WebStorm Color Scheme
 
-![Alt text](/golbin/master/screenshot.png?raw=true "Base16 Ocean +")
+![Base16 Ocean +](https://github.com/golbin/webstorm-color-scheme/blob/master/screenshot.png?raw=true "Base16 Ocean +")
 
 It's for JavaScript based on Base16.
 
